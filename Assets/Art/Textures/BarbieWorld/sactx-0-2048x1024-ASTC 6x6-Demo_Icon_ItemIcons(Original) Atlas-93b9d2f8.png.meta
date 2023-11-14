@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 78078e4bd765de04fbf47c5cde81e475
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdffe4dca15714fb0fe09961844ae6
+      internalID: 1487150291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 752
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37915d8457c58b245875c8a5d352179e
+      internalID: -197353330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 752
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b2bfe01ceec64f95b7a00fceb6650
+      internalID: 1958011466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 742
+        width: 117
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e590894cde41448cbe18de430e46f
+      internalID: -497228081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 824
+        width: 127
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205f014f32f27a4a82d1332504ba818
+      internalID: -1879034678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 822
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487aee14cbaa3e4db228dd234fadfd8
+      internalID: -342038486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorElmas
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 834
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea938d07538fc143b6af8f10cea7578
+      internalID: 981655815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 704
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfd15efdadf68448cb6ccd2d4a79c6
+      internalID: -2055377928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 809
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c60a2dbe7ee240a337ede405352e1
+      internalID: 896892575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YesilElmas
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 798
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e56b219559f249ae5bada0b14771f
+      internalID: -1340965211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorElmas5gen
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 640
+        width: 109
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52a84c556c762419851fd3da3da926
+      internalID: -1325213142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 316
+        width: 142
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e6c594ab3c554d947406ad64dbdd0
+      internalID: -1217105299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOrElmasUclu
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 614
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23feb7d39e64f824cac4348462a26837
+      internalID: -1315861623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldUclu
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 704
+        width: 152
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d0c43f8afd22409fd94f1adf6545e
+      internalID: 150036795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connectbubble
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 567
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8b3fe211b33541aff1aac656bd3a0
+      internalID: 1458399432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champion
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 681
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57fe4843816abc48a0dc5aa910f541d
+      internalID: -1063909439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandTimer
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 136
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1160cfb93ad4f04ba03b9321444da6b
+      internalID: -993318663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YasilPotion
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 460
+        width: 129
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34725a127daf5524793c9833f80794ae
+      internalID: -57457740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yonca
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 430
+        width: 127
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b72c29eab815fc498a90ffed8f70709
+      internalID: 244421466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shiled
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 423
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0a14991d92ae4ab44779d886dfc40
+      internalID: 1903513208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Navigation
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 287
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9238b34de6046d4c883c03b98fe54df
+      internalID: -171142140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 421
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a83e5b9ba9ac64b8ba371e0e719106
+      internalID: 1004813515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonPerple
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 563
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ac9acb05e8aa4ab39e240be85acab
+      internalID: -162031940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthPotion
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 540
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08b321ae3aec0049922d2af315d2352
+      internalID: -644841977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 159
+        width: 133
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bbd9f63aabd0498f1a1fd161a9c4c
+      internalID: -436819223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keygold
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 297
+        width: 142
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb5c0ac644b3ed4fa2fd3c873e7cceb
+      internalID: -906510223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LockImage
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 289
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd2f9463113c44e90eeff0c2b41254
+      internalID: 1082058108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 281
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d313b336fcd263409f6b1d2ec5a0ba8
+      internalID: 1521260221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kalp
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 393
+        width: 138
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878228284d9debf4b9fdaab3cf1721dc
+      internalID: -1441113753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurek
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0004f41bc5421e044bdbdcf58d47daab
+      internalID: 763514080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HediyePaketi
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 267
+        width: 123
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a764b4ace25a54e90c3842d94ab9a2
+      internalID: -767259454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PunchGloves
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 149
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc0dfb1f5a4194d934ad3f991d2b1f
+      internalID: -1043949366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mektup
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 270
+        width: 119
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d75e29487c8d4dbf8f3af6ec3a180
+      internalID: -448100899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 149
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf124949b982a14aaa5dadcdc2b6cb2
+      internalID: -748697803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Target
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628cf01d9503f5429cf4c562151d2a1
+      internalID: -1336007469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pusula
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1
+        width: 124
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0700685c291d5e4181a8e130357be83
+      internalID: -1495305154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_36
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e939407c4803d45b3123472e2a65d8
+      internalID: 1253416023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorElmass
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 269
+        width: 126
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf545d92fdfa44daf5dfddaf884605
+      internalID: 1580778376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_38
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b934d3e592d4049b40c6890e20772e
+      internalID: -1647986619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0496f70bb2d9b45468ef1c0a9964e824
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_4: -1879034678
+      LockImage: 1082058108
+      Kalp: -1441113753
+      Cards: -342038486
+      Champion: -1063909439
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_36: 1253416023
+      Navigation: -171142140
+      Yonca: 244421466
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_3: -497228081
+      PunchGloves: -1043949366
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_1: -197353330
+      HediyePaketi: -767259454
+      MorElmas: 981655815
+      Connectbubble: 1458399432
+      Sword: -2055377928
+      HealthPotion: -644841977
+      King: 1521260221
+      MorElmas5gen: -1325213142
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_24: -436819223
+      Kurek: 763514080
+      Gold: 896892575
+      YesilElmas: -1340965211
+      MorElmass: 1580778376
+      PoisonPerple: -162031940
+      Pusula: -1495305154
+      SandTimer: -993318663
+      MOrElmasUclu: -1315861623
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_38: -1647986619
+      Rocket: 1004813515
+      Star: -748697803
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_2: 1958011466
+      GoldUclu: 150036795
+      Target: -1336007469
+      Key: -1217105299
+      Shiled: 1903513208
+      Mektup: -448100899
+      sactx-0-2048x1024-ASTC 6x6-Demo_Icon_ItemIcons(Original) Atlas-93b9d2f8_0: 1487150291
+      Keygold: -906510223
+      YasilPotion: -57457740
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

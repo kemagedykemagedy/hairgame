@@ -1,0 +1,1 @@
+Assets -> Plugins içine bu iki dosyayı yapıştır
